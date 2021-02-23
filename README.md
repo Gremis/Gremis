@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/Gremis/Gremis/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Web Graphic and FrontEnd Developer!!
+## I'm a Wife, Mother and Web Front-End Developer!!
 - ✍ You can find some of my graphic design projects here [portfolio]
 - 🔭 In my spare time I translate Portuguese to Spanish books on the [Babelcube] platform.
 - 🌱 I’m currently learning Web Front-End with React in [Labenu]
