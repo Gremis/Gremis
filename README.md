@@ -35,7 +35,7 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/gremis-tovar-987673135/
+[linkedin]: https://www.linkedin.com/in/gremistovar/
 [portfolio]: https://www.behance.net/gremistovar
 [Babelcube]: https://www.babelcube.com/
 [Labenu]: https://www.labenu.com.br/
