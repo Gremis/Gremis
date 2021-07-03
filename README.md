@@ -8,7 +8,7 @@
 - 🔭 In my spare time I translate Portuguese to Spanish books on the [Babelcube] platform.
 - 🌱 I’m currently learning Web Front-End with React in [Labenu]
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 3 languages ( Native Spanish, Fluent Portuguese, Elementary English )
+- ⚡ Fun fact: I speak 3 languages ( Native Spanish, Fluent Portuguese, Intermediate English )
 
 
 ### Visit my professional profile:
