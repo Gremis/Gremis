@@ -4,9 +4,9 @@
 
 
 ## I'm a Wife, Mother and Web Front-End Developer!!
+- 🔭 I am developer Front-End at [Credere].
+- 🌱 I studied Web Front-End with React in [Labenu] and I studied Civil Engineering in [UNEFA].
 - ✍ You can find some of my graphic design projects here [portfolio]
-- 🔭 In my spare time I translate Portuguese to Spanish books on the [Babelcube] platform.
-- 🌱 I’m currently learning Web Front-End with React in [Labenu]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( Native Spanish, Fluent Portuguese, Intermediate English )
 
@@ -37,5 +37,7 @@
 
 [linkedin]: https://www.linkedin.com/in/gremistovar/
 [portfolio]: https://www.behance.net/gremistovar
-[Babelcube]: https://www.babelcube.com/
+[Credere]: https://meucredere.com.br/
 [Labenu]: https://www.labenu.com.br/
+[UNEFA]: http://www.unefa.edu.ve/portal/
+
