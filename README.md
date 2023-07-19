@@ -4,7 +4,7 @@
 
 
 ## I'm a Wife, Mother and Web Front-End Developer!!
-- 🔭 I am developer Front-End at [Credere].
+- 🔭 I was a Front-End developer at [Credere].
 - 🌱 I studied Web Front-End with React in [Labenu] and I studied Civil Engineering in [UNEFA].
 - ✍ You can find some of my graphic design projects here [portfolio]
 - 😄 Pronouns: She/Her
