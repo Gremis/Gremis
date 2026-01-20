@@ -9,7 +9,6 @@ I'm a Developer!!
 - 🔭 Previously a Front-End developer at [Credere].
 - 🌱 Studied Web Front-End with React at [Labenu] and Civil Engineering at [UNEFA].
 - 🎓 Completed a postgraduate degree in Analysis and Computer Systems at [PROMINAS].
-- ✍ You can find some of my graphic design projects here: [portfolio]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages (Native Spanish, Fluent Portuguese, Intermediate English)
 
@@ -35,8 +34,7 @@ I'm a Developer!!
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/gremistovar/
-[portfolio]: https://www.behance.net/gremistovar
+[linkedin]: https://www.linkedin.com/in/gremis-tovar-699a52393/
 [Credere]: https://meucredere.com.br/
 [Labenu]: https://www.labenu.com.br/
 [UNEFA]: http://www.unefa.edu.ve/portal/
