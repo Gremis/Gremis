@@ -4,13 +4,17 @@
 
 ## About Me
 
-I'm a Developer!!
+I'm a Full Stack Developer focused on modern web applications, integrations, and responsive experiences.
 
-- 🔭 Previously a Front-End developer at [Credere].
-- 🌱 Studied Web Front-End with React at [Labenu] and Civil Engineering at [UNEFA].
-- 🎓 Completed a postgraduate degree in Analysis and Computer Systems at [PROMINAS].
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 3 languages (Native Spanish, Fluent Portuguese, Intermediate English)
+- Currently working as a Freelance Full Stack Developer at Onpoint Digital, LLC.
+- Previously worked as a Full Stack Developer at Credere.
+- Building with Next.js, TypeScript, React, Prisma, MySQL, AWS Serverless, Vue.js, and OpenAI integrations.
+- Experienced with APIs, landing pages, PWAs, bug fixing, performance improvements, and CI/CD pipelines.
+- Studied Web Front-End with React at Labenu and Civil Engineering at UNEFA.
+- Completed a postgraduate degree in Systems Analysis at Faculdade Prominas.
+- Currently studying a postgraduate degree in Full Stack Development at CENES.
+- Pronouns: She/Her
+- Languages: Native Spanish, Fluent Portuguese, Intermediate English
 
 ## Connect with Me
 
@@ -20,22 +24,22 @@ I'm a Developer!!
 
 ## Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
-<img align="left" alt="Vue.js" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
-<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
-<img align="left" alt="Illustrator" width="26px" src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Vue.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Prisma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+<img align="left" alt="OpenAI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" />
 
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/gremis-tovar-699a52393/
-[Credere]: https://meucredere.com.br/
-[Labenu]: https://www.labenu.com.br/
-[UNEFA]: http://www.unefa.edu.ve/portal/
-[PROMINAS]: https://faculdadesprominas.com.br/
+[linkedin]: https://www.linkedin.com/in/gremis-tovar-tovar/
